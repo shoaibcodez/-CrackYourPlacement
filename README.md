@@ -9,12 +9,14 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shoaibcodez/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0073-set-matrix-zeroes](https://github.com/shoaibcodez/-CrackYourPlacement/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shoaibcodez/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/shoaibcodez/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shoaibcodez/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shoaibcodez/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/shoaibcodez/-CrackYourPlacement/tree/master/0075-sort-colors) |
+| [0283-move-zeroes](https://github.com/shoaibcodez/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shoaibcodez/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
